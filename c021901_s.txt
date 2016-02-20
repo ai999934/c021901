@@ -1,3 +1,0 @@
-# c021901
-        .global main
-main:    ret
