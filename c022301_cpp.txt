@@ -16,7 +16,7 @@ main()
     {
         r = (i / 180) * 3.14;
         x = r;
-        y = sin(x);
+        y = x;
         g.pset(x, y);
     }
     gend();
